@@ -14,7 +14,7 @@ The system consists of two parts:
 *   ✅ Saves the short translation.
 *   ✅ **Saves full context/definition** (automatically extracts the "In this sentence..." description from the LR panel).
 *   ✅ Formats data into a CSV file (semicolon `;` separator), perfect for Anki.
-*   ✅ Works on Netflix and YouTube (wherever Language Reactor works).
+*   ✅ Works on www.languagereactor.com domain
 
 ---
 
