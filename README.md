@@ -7,7 +7,7 @@ This is a workaround for the paid "Save" feature (Pro), created for learners who
 ## 🚀 How it works
 The system consists of two parts:
 1.  **Chrome Extension** – injects a green `SAVE` button into the Language Reactor panel.
-2.  **Python Server** – a small script running in the background that receives data from the browser and saves it to a `moje_slowka.csv` file on your drive.
+2.  **Python Server** – a small script running in the background that receives data from the browser and saves it to a `mywords.csv` file on your drive.
 
 ![screenshot](savebutton.png)
 
